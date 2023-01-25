@@ -1,12 +1,5 @@
 import unittest
 import pytest
-from selenium import webdriver
-import time
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-import unittest
-import pytest
 from pages.ui_homepage import homepage
 from pages.ui_gamepage import gamepage
 
